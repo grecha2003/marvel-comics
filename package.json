@@ -1,0 +1,24 @@
+{
+  "name": "marvel-comics",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel public/index.html --open",
+    "build": "parcel build public/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grecha2003/marvel-comics.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grecha2003/marvel-comics/issues"
+  },
+  "homepage": "https://github.com/grecha2003/marvel-comics#readme",
+  "dependencies": {
+    "axios": "^0.25.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
