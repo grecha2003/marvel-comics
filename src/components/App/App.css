@@ -7,6 +7,8 @@
   --spacing-small: 10px;
   --spacing-medium: 15px;
   --spacing-large: 20px;
+
+  --box-shadow: 0 2px 24px rgba(168, 175, 198, 0.5);
 }
 
 *,
@@ -40,4 +42,17 @@ body {
 
 ::-webkit-scrollbar-track {
   background-color: var(--color-dark);
+}
+
+:global(.img-cover) {
+  display: block;
+  object-fit: cover;
+  object-position: center;
+}
+
+:global(.btn) {
+  border: none;
+  outline: none;
+  background: none;
+  cursor: pointer;
 }
