@@ -1,4 +1,4 @@
-# Pet-project: https://marvel-comics-beebqnyik-burrubin.vercel.app/
+# Link: https://marvel-comics-beebqnyik-burrubin.vercel.app/
 ![alt text](https://i.ibb.co/QrsVxB9/2022-03-06-133517.png)
 Name: "marvel-comics";<br>
 Description: pet-project ("grecha2003");<br>
